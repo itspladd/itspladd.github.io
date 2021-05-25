@@ -9,15 +9,15 @@ preview-image:
   alt: "A beekeeper blowing soothing smoke onto bees at a beehive, with the logo for the Beeminder application superimposed over individual bees."
 ---
 
-In a way, this is a follow-up to my previous post about [Not Doing Things]({% post_url 2016-05-11-i-am-good-at-not-doing-things %}). See, I noticed my strong tendency to Not Do Things (or at the very least Not Finish Things) quite a while ago. It's probably been at least a few years since I first made that realization.
+In a way, this is a follow-up to my previous post about [Not Doing Things]({% post_url blog/2016-05-11-i-am-good-at-not-doing-things %}). See, I noticed my strong tendency to Not Do Things (or at the very least Not Finish Things) quite a while ago. It's probably been at least a few years since I first made that realization.
 
 I didn't want to let that problem define my life, but I wasn't sure how to go about solving it. It wasn't until I started getting serious about self-education that I decided to try this crazy "Beeminder" thing a friend of mine swore by.
 
 <!--more-->
 
-I wrote a little about [Beeminder]({% post_url 2016-02-11-beeminder-made-me-write-this %}) a few months ago. It's a fantastic motivational tool, with a large array of useful features. It turns distant goals into immediate dangers that you can address. And it _worked_. In the span of a couple of months, I logged about 70 hours of art practice and around 90 hours of work on this website, including design, development, and writing. Beeminder was minding the _shit_ out of me; the constant imminent threat of losing a few bucks was enough motivation to keep me working even when I didn't feel like it.
+I wrote a little about [Beeminder]({% post_url blog/2016-02-11-beeminder-made-me-write-this %}) a few months ago. It's a fantastic motivational tool, with a large array of useful features. It turns distant goals into immediate dangers that you can address. And it _worked_. In the span of a couple of months, I logged about 70 hours of art practice and around 90 hours of work on this website, including design, development, and writing. Beeminder was minding the _shit_ out of me; the constant imminent threat of losing a few bucks was enough motivation to keep me working even when I didn't feel like it.
 
-Then, like I mentioned in my [sausage post]({% post_url 2016-04-12-sausages-sausages-and-more-sausages %}), I got tripped up. Literally.
+Then, like I mentioned in my [sausage post]({% post_url blog/2016-04-12-sausages-sausages-and-more-sausages %}), I got tripped up. Literally.
 
 No, wait, that makes it sound like I tripped and fell. That's not what happened. I went _on_ a trip. I got "tripped." Get it?
 

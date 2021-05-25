@@ -17,7 +17,7 @@ layout: default
 <aside class="sidebar">
     <h3>Chapters</h3>
     <ul>
-        {% for page in site.categories.[category] reversed %}
+        {% for page in site.categories[category] reversed %}
         <li><a href="{{ page.url }}">Chapter {{ page.chapter }}: {{ page.chapter-title }}</a></li>
         {% endfor %}
     </ul>
