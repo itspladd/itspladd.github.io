@@ -47,7 +47,7 @@ Oh man oh jeez SHUT UP.
     </figure>
 </aside>
 
-So why draw these sausages? It’s actually a continuation of the [form intersection]({% post_url 2016-03-12-drawing-intersections-shapes-in-other-shapes %}) exercises I’ve been working on. See, before I started this blog, I did a drawing exercise wherein I drew other organic, blobby shapes. Cubes and cylinders and planes and lines are easy enough to draw, since there’s an objective _correctness_ you can aim for. But organic shapes are a lot more free-form.
+So why draw these sausages? It’s actually a continuation of the [form intersection]({% post_url blog/2016-03-12-drawing-intersections-shapes-in-other-shapes %}) exercises I’ve been working on. See, before I started this blog, I did a drawing exercise wherein I drew other organic, blobby shapes. Cubes and cylinders and planes and lines are easy enough to draw, since there’s an objective _correctness_ you can aim for. But organic shapes are a lot more free-form.
 
 Look closely at that thing off to the side. Did I draw it correctly, or did I make a fundamental mistake? 
 
