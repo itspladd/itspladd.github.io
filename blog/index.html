@@ -23,32 +23,3 @@ title: "Paul Ladd does a blog"
         {% endif %}
     </article>
 </section>
-
-<!-- This HTML uses Jekyll's pagination functionality, which doesn't play nice with categories. I've kept it here for posterity.
-
-{% for post in paginator.posts %}
-<section>
-    <article>
-        <h1><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h1>
-        <p>{{ post.date | date_to_string }}</p>
-        {{ post.excerpt }}
-        <a href="{{ post.url }}" title="{{ post.title }}">Continue reading...</a>
-    </article>
-</section>
-{% endfor %}
-<section>
-    <article>
-        {% if paginator.previous_page %}
-            <a href="{{ paginator.previous_page_path }}">Previous</a>
-        {% else %}
-            Previous
-        {% endif %}
-        --{{ paginator.page }} of {{paginator.total_pages }}--
-        {% if paginator.next_page %}
-            <a href="{{ paginator.next_page_path }}">Next</a>
-        {% else %}
-            Next
-        {% endif %}
-    </article>
-</section>
--->
