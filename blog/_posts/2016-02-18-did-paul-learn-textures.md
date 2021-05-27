@@ -16,7 +16,7 @@ preview-image:
 
 Uh...kind of?
 
-In my [first post]({% post_url 2016-02-04-drawing-protip-textures-suck %}), I mentioned that I was working on a "dissections" exercise for drawing practice. Here's the idea: you draw an arbitrary organic form (read: "a blob"), add contour lines to show the shape of that form in 3D space, and then add exterior and cross-section textures based on reference photos. These exercises serve three purposes:
+In my [first post]({% post_url blog/2016-02-04-drawing-protip-textures-suck %}), I mentioned that I was working on a "dissections" exercise for drawing practice. Here's the idea: you draw an arbitrary organic form (read: "a blob"), add contour lines to show the shape of that form in 3D space, and then add exterior and cross-section textures based on reference photos. These exercises serve three purposes:
 
 1. You end up studying how textures warp and change as they follow a 3D form.
 2. You start to build a mental "library" of textures that you can refer to later.

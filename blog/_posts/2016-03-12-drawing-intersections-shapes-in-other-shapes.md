@@ -35,7 +35,7 @@ Okay maybe more than one&mdash;
 
 FINE. Lots of mistakes.<!--more-->
 
-See, last time, it was [just boxes]({% post_url 2016-03-04-3d-intersections-maddening %}). Boxes are easy, which is why I didn't mess any of them up.
+See, last time, it was [just boxes]({% post_url blog/2016-03-04-3d-intersections-maddening %}). Boxes are easy, which is why I didn't mess any of them up.
 
 <aside class="midtext-center">
     <figure>

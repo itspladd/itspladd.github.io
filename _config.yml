@@ -6,12 +6,13 @@
 exclude: [post-template.md]
 
 url: "http://www.itspladd.com"
-name: "PLADD"
+title: "Pladd"
 author:
   name: pladd
-  email: itspladd@gmail.com
+  email: contact@itspladd.com
 
 permalink: pretty
+theme: minimal-mistakes-jekyll
 
 excerpt_separator: <!--more-->
 assetspath: "/assets/"
@@ -28,15 +29,15 @@ defaults:
       path: ""
     values:
       layout: "default"
-      title: "PLADD: Paul Ladd Does Words, Art, and Code"
-      shortdesc: "Your one-stop shop for blog posts about drawing and stories containing bad words."
+      title: "itspladd"
+      shortdesc: "Personal website for Paul Ladd, full-stack web developer."
       author: "pladd"
       preview-image:
         file: "banner.png"
         type: "image/png"
         width: "1200"
         height: "630"
-        title: "Home of the Fightin' Lampreymelons"
+        title: "Pladd"
         alt: "Default \"It's PLADD\" banner."
   -
     scope:
