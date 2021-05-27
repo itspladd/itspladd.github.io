@@ -1,3 +1,2 @@
-# itspladd.github.io
-My personal website, hosted through Pages.
-
+# itspladd.com
+My personal website, containing a blog and a project portfolio.
