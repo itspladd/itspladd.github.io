@@ -1,11 +1,11 @@
-theme                  : "minimal-mistakes-jekyll"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme             : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
 title                    : "Pladd"
 title_separator          : "-"
-subtitle                 : "Code, words, and general goofballery from Paul Ladd"
+subtitle                 : "Code, words, and semi-filtered goofballery by Paul Ladd"
 name                     : "Paul Ladd"
 description              : "Personal website for Paul Ladd, software developer and an all-around Real Human Person, yes indeed"
 url                      : "http://www.itspladd.com"
