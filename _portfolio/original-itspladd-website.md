@@ -1,5 +1,5 @@
 ---
-title: "PLADD (The Website)"
+title: "itspladd.com (The Old Version)"
 shortdesc: "Nerdy stuff about the workings of itspladd.com. Clearly the most meta post on the entire site."
 updatedate: "March 11, 2016"
 preview-image:
