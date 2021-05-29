@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Paul Ladd"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm the person that wrote all the things on this site! Yup! That's me!"
+  bio              : "I'm the person that wrote all the things on this site. Yup! That's me!"
   location         : "Toronto"
   email            : "contact@itspladd.com"
   links:
@@ -256,7 +256,7 @@ compress_html:
 collections:
   blog:
     output: true
-    permalink: pretty
+    permalink: /:collection/:path
   portfolio:
     output: true
     permalink: /:collection/:path
