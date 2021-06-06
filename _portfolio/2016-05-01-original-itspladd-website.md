@@ -1,9 +1,10 @@
 ---
-title: "itspladd.com (The Old Version)"
-shortdesc: "Nerdy stuff about the workings of itspladd.com. Clearly the most meta post on the entire site."
+title: "itspladd.com"
+excerpt: "My original personal website."
 updatedate: "March 11, 2016"
-preview-image:
-  file: "banner-itspladd-website-code-project.png"
+header:
+  overlay_filter: rgba(0, 70, 70, 0.6)
+  overlay_image: "assets/banners/2016-05-01-banner-old-website.png"
   title: "Look at that sweet, sweet cross-fade."
   alt: "The IT'S PLADD banner fades out from left to right, revealing HTML code underneath."
 type: "website"
