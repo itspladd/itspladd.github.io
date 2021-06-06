@@ -8,7 +8,7 @@ Hey there! I'm Paul Ladd, and I've been programming for over a decade. I like ma
 
 ## Stuff I Can Do
 
-I'm proficient in both front-end and back-end web development. Check out my [portfolio page]({{site.baseurl}}/portfolio) for a full list of projects, or go straight to my [GitHub](link) to see what I've been working on!
+I'm proficient in both front-end and back-end web development. Check out my [portfolio page]({{ site.baseurl }}/portfolio) for a full list of projects, or go straight to my [GitHub]({{ site.author.links[4].url }}) to see what I've been working on!
 
 ## Stuff I Love
 
