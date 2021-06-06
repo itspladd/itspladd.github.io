@@ -34,7 +34,10 @@ I was already pretty familiar with most of these concepts, having dealt with bas
 I also spent a fair amount of time assisting other students in my cohort. This course was intended for people of _any_ skill level, meaning some of my peers had never done any sort of coding before. I wanted to try and use my existing experience to help anyone who asked!
 
 <aside class="aside-right">
-why yes Derek i totally know what "hoisting" means, give me ten seconds. no derek I am <em>not</em> frantically googling "hoisting javascript fast answer please" why would you even suggest that
+  <img src="{{ site.baseurl }}/assets/thumbs-up.jpg" />
+  <p>
+    why yes Derek, i totally know what "hoisting" means, give me ten seconds. no derek I am <em>not</em> frantically googling "hoisting javascript fast answer please" why would you even suggest that haha
+  </p>
 </aside>
 
 I'm really glad I did, because I met a lot of my fellow students through bug hunting and troubleshooting. I also reinforced my own knowledge and discovered weak points when I would try to explain a concept and find out that I was missing something!
@@ -80,9 +83,9 @@ Given all of that, I think we did pretty well: we created [Rehearsal Room](https
 
 This was our first time building a new React application from the ground up, so it took us a few days to find our footing. By the end of the project, however, we were all jumping in and out of components and hooks easily!
 
-Hmm. If you're not familiar with React, then that last sentence might make absolutely no sense. If you like, you can just pretend that "components" are big hoops, and "hooks" are trapezes, and just imagine the three of us as circus performers. It's pretty similar, actually.
+<aside class="aside-left">If you're not familiar with React, then that last paragraph might make absolutely no sense. If you like, you can just pretend that <strong>components</strong> are big hoops, and <strong>hooks</strong> are trapezes. Then imagine the three of us as <strong>circus performers</strong>. It's pretty similar, actually.</aside>
 
-In contrast to InquizitorApp, we divided the work **vertically**, which meant that each of us was responsible for entire slices of the application, from the front-end styling to the database connection. Working vertically felt like a slower approach, with more development friction; however, we all became familiar with the entire shape of the application, rather than _only_ having familiarity with our specific domains.
+In contrast to InquizitorApp, we divided the work **vertically**, which meant that each of us was responsible for entire slices of the application, from the front-end styling to the database connection. Working vertically felt like a slower approach, with more development friction; however, we all became familiar with the entire shape of the application, rather than _only_ having familiarity with our specific domains. For a student project intended to help us all learn full-stack development, I think we made the right decision.
 
 Once again, you can see more details about the project on my [portfolio page](TODO-LINK), or click the link before the photo to see it on GitHub!
 

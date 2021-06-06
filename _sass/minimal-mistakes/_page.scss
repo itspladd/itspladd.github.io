@@ -162,13 +162,19 @@ body {
   aside {
     font-size: .8em;
     background-color: $aside-color;
-    width: 30%;
+    width: 40%;
     position: relative;
     padding: .5em;
 
+    p {
+      margin-top: .3em;
+      margin-bottom: 0;
+    }
+
     &.aside-left {
       float: left;
-      margin-right: .5em;
+      margin-right: .6em;
+      margin-left: -.5em;
     }
 
     &.aside-right {
