@@ -1,19 +1,20 @@
 ---
 title: "itspladd.com"
 excerpt: "My original personal website."
-updatedate: "March 11, 2016"
 header:
-  overlay_filter: rgba(0, 70, 70, 0.6)
+  overlay_filter: rgba(0, 70, 70, 0.8)
   overlay_image: "assets/banners/2016-05-01-banner-old-website.png"
-  title: "Look at that sweet, sweet cross-fade."
-  alt: "The IT'S PLADD banner fades out from left to right, revealing HTML code underneath."
-type: "website"
-live-url: "http://www.pladd.dev/personal-website-old"
-source-url: "https://github.com/itspladd/personal-website-old"
-live-url-message: "Go to the homepage"
+  caption: "I picked the color scheme for the site. I'm also colorblind. These two facts are entirely unrelated."
+  actions:
+    - label: "Source Code"
+      url: "https://github.com/itspladd/personal-website-old"
+    - label: "Live Site"
+      url: /personal-website-old/
 ---
 
-PLADD is my personal website. It features a blog, samples of my writing, my drawings, and code projects I've worked on.
+PLADD was my original personal website. It features a blog, samples of my writing (which aren't really appropriate for work - be warned!), my drawings, and code projects I've worked on.
+
+The following is my original write-up for the project, circa 2016. Hop in your time machine!
 
 ### Hosting and Domain ###
 
