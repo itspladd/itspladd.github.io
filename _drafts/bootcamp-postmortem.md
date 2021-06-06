@@ -33,9 +33,11 @@ I was already pretty familiar with most of these concepts, having dealt with bas
 
 I also spent a fair amount of time assisting other students in my cohort. This course was intended for people of _any_ skill level, meaning some of my peers had never done any sort of coding before. I wanted to try and use my existing experience to help anyone who asked!
 
-I'm really glad I did, because I met a lot of my fellow students through bug hunting and troubleshooting. I also reinforced my own knowledge and discovered weak points when I would try to explain a concept and find out that I was missing something!
+<aside class="aside-right">
+why yes Derek i totally know what "hoisting" means, give me ten seconds. no derek I am <em>not</em> frantically googling "hoisting javascript fast answer please" why would you even suggest that
+</aside>
 
-<!-- Aside: comment on something I was missing at first. why yes Derek i totally know what "hoisting" means, give me ten seconds. NO derek I am NOT frantically googling "hoisting javascript fast answer please" why would you even suggest that-->
+I'm really glad I did, because I met a lot of my fellow students through bug hunting and troubleshooting. I also reinforced my own knowledge and discovered weak points when I would try to explain a concept and find out that I was missing something!
 
 I could talk forever about the instructors, cool [projects](link to lhl projects overview page on portfolio), and student support staff (hi Chetna and Janelle!), but this post would be WAY too long. Instead, let's jump to the two self-driven projects of the bootcamp: the midterm and the final.
 
