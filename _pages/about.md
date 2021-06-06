@@ -34,6 +34,12 @@ Which means that "hippophobia" is an irrational fear of HORSES and not an irrati
 
 Okay, I love to learn _some_ new stuff.
 
+### Being An Unabashed Goober, But Hopefully Not In An Annoying Way, So, Actually, Being A Slightly Abashed Goober, When Context Calls For It, Because I Really Don't Want To Bother People, But I Also Want To Be True To My Authentic Self, You Know?
+
+### Headings That Should Be Paragraphs
+
+Apparently.
+
 ### Dogs
 
 I mean, [clearly]({{ site.baseurl }}/dog).
