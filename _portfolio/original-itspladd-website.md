@@ -7,8 +7,8 @@ preview-image:
   title: "Look at that sweet, sweet cross-fade."
   alt: "The IT'S PLADD banner fades out from left to right, revealing HTML code underneath."
 type: "website"
-live-url: "http://www.itspladd.com"
-source-url: "https://github.com/itspladd/itspladd.github.io"
+live-url: "http://www.pladd.dev/personal-website-old"
+source-url: "https://github.com/itspladd/personal-website-old"
 live-url-message: "Go to the homepage"
 ---
 
@@ -38,33 +38,11 @@ Then, one day, things broke on the live site. And they weren't broken on my loca
 
 You know. Standard programmer stuff.
 
-### Planned Features ###
-
-If you have a suggestion for the site, email <a href="mailto:support@itspladd.com">support@itspladd.com</a> with a feature request. If I like it, I'll add it to the list!
-
-* Build Art Section
-    * The Art section is the last section of the site without unique layouts or post formats. I'd like to have the section capable of handling both individual images and collections of images.
-* Sidebar Icon for Small Windows
-    * Right now, if your browser window is too small, the sidebar and the main content of a page will overlap. Instead, the sidebar should be replaced with a small icon that can be expanded into the full sidebar whenever you actually want it.
-* Update Dates
-    * Add code to list when a post (blog, art, code project, writing, etc) was last updated.
-* Rating System
-    * Some content on the site is less suitable for certain audiences due to being chock-full of every bad word known to man. I'd like to have a big, in-your-face rating advisory at the top of such posts.
-* Elegantly Handle Big Images
-    * Uploading (mostly) raw photos of sketches makes for big huge images. Currently, I link to the full (~10 MB) image for you to open if you want, and then put smaller versions of the image in the posts themselves. Opening giant images in other tabs is probably the correct functionality going forward, but it would be nice to allow someone to click a thumbnail to view a medium-size version of the image as an overlay, and then click to get back to the page's main content.
-* Fully Integrate With Social Media
-    * It'd be cool to have a (non-obtrusive) way for people to immediately share a blog post, drawing, story, or code project on Facebook/Twitter/Tumblr. Right now all I have are the buttons linking to my respective accounts at the top of the site.
-* Comments
-    * Enable some sort of commenting system on blog posts.
-
-Completed features:
-
-* Build Coding Section (Moved March 11, 2016)
-    * It's right here. You're on it.
-
 ### Known Issues ###
 
-See any problems with the site that aren't listed here? Email <a href="mailto:support@itspladd.com">support@itspladd.com</a> with a description of the problem, and I'll add it to the list!
+There used to be known issues here, but this is the old version of the site. I'm archiving it to work on the new one!
 
-* Mobile-Unfriendlytude
-    * The site is currently mega unfriendly to some mobile browsers. How do I make a site mobile-friendly? NO IDEA. TIME TO FIND OUT.
+~~See any problems with the site that aren't listed here? Email <a href="mailto:support@pladd.dev">support@pladd.dev</a> with a description of the problem, and I'll add it to the list!~~
+
+* ~~Mobile-Unfriendlytude~~
+    * ~~The site is currently mega unfriendly to some mobile browsers. How do I make a site mobile-friendly? NO IDEA. TIME TO FIND OUT.~~

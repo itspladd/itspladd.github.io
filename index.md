@@ -16,5 +16,5 @@ header:
 excerpt: "I'm Paul, a web developer and writer. If you want to look at my projects or read what I've written, then you're in luck: this is precisely where you can do both of those things."
 ---
 
-Looking for the old version of the site? You can find it on my portfolio page, or just click [here](http://itspladd.com/personal-website-old)!
+Looking for the old version of the site? You can find it on my portfolio page, or just click [here](https://pladd.dev/personal-website-old)!
 {: .notice--info}

@@ -4,8 +4,20 @@ permalink: /about/
 layout: single
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hey there! I'm Paul Ladd, and I've been programming for over a decade. I like making things, breaking things, and fixing things, which is basically programming in a nutshell.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Stuff I Can Do
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I'm proficient in both front-end and back-end web development. Check out my [portfolio page]({{site.baseurl}}/portfolio) for a full list of projects, or go straight to my [GitHub](link) to see what I've been working on!
+
+## Stuff I Love
+
+In no particular order:
+
+### Indie Games
+
+The recent proliferation of tools and frameworks has made it possible for almost anyone to make a video game or other interactive experience, and that's incredible to me. I absolutely love how many different stories, experiences, and experiments have come out of the indie game world, and I'm excited to see what happens as technology continues to evolve.
+
+### Dogs
+
+I mean, 
