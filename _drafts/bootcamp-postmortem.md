@@ -43,16 +43,16 @@ I could talk forever about the instructors, cool [projects](link to lhl projects
 
 ## Midterminal Velocity
 
-For the midterm project, we were paired randomly with other students in our cohort. I was paired with [Reggi](https://github.com/ahhreggi), and we picked "Quiz Application" from the list of available projects. My mind, irrevocably poisoned by chronic exposure to the internet, was swimming with visions of personality quizzes like "Which Gremlins Character Best Represents Your Disney-Princess-sona's Astrological Sign?" and "How Vulnerable Are You To Online Phishing Scams? Enter Each Digit Of Your Social Security Number Here To Find Out."
+For the midterm project, we were paired randomly with other students in our cohort. I was paired with [Reggi](https://github.com/ahhreggi), and we picked "Quiz Application" from the list of available projects. My mind, irrevocably poisoned by chronic exposure to the internet, was swimming with visions of personality quizzes like "Which Gremlins Character Best Represents The Astronomical Sign of the Disney Princess Living In Your SOul?" and "How Vulnerable Are You To Online Phishing Scams? Enter Each Digit Of Your Social Security Number Here To Find Out."
 
-Thankfully, Reggi used her functioning human brain to suggest that an application for _user-generated_ quizzes would be more technically interesting to create, and also have the potential to create some kind of _actual value_ for other human beings. So we did that instead, and in the span of one week (ONE. WEEK.) we created: [THE INQUIZITORAPP](https://inquizitor-app.herokuapp.com/). (It's live. At that link. You can use it, right now!)
+Thankfully, Reggi used her functioning human brain to suggest that an application for _user-generated_ quizzes would be more technically interesting to create, and also have the potential to create some kind of _actual value_ for other human beings. So we did that instead, and in the span of one week (ONE. WEEK.) we created: [THE INQUIZITORAPP](https://inquizitor-app.herokuapp.com/). (It's live. At that link. You can use it, right now! It might take a few seconds to load, give it time.)
 
 <figure class="align-center">
   <img title="Spoiler alert: Mario can eat only fungus. Thankfully, everything in the Mushroom Kingdom, sapients included, is made of fungus, so he never goes hungry." alt="A screenshot of the InquizitorApp page, showing a quiz entitled 'Mario's Dietary Restrictions.'" src="{{ site.baseurl }}/assets/inquizitor-screenshot.png"/>
   <figcaption>I did, in fact, still manage to create goofball quizzes, because I cannot be stopped.</figcaption>
 </figure>
 
-"Hey Paul," you might say, "That looks really good!" And I'd say thank you! Except that I did absolutely none of the design work: Reggi handled the entire front-end, including design, UI, and layout. If literally any part of InquizitorApp looks good (and it ALL looks VERY good), then it's because of her. I could not have asked for a more dedicated partner on a project.
+"Hey Paul," you might say, "That looks really good!" And I'd say, "Hey, thanks! Except that I did absolutely none of the design work: Reggi handled the entire front-end, including design, UI, and layout. If literally any part of InquizitorApp looks good (and it ALL looks VERY good), then it's because of her. I could not have asked for a more dedicated partner on a project."
 
 As for me, I handled the back-end: the server, the routing, and the database. Reggi and I hit a great flow in our development process, where we were documenting what each part of the app expected from the other part of the app, and so we were able to work largely independently - although we still had morning sync-up meetings to make sure we were moving in the same direction, and we bugged each other with short questions or clarifications throughout the day.
 
