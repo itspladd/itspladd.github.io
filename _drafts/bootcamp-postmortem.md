@@ -1,15 +1,21 @@
 ---
-title: "Emerging from the Lab: What's Next After Bootcamp"
+title: "Emerging from the Lab"
+excerpt: "A post-bootcamp bootcamp post"
+
+header:
+  teaser: # Teaser image URL
+  overlay_filter: rgba(0, 70, 70, 0.6)
+  overlay_image: assets/images/banners/2021-06-06-bootcamp-postmortem.jpg
+  caption: "Twelve weeks in a lighthouse: not as bad as it sounds. Photo via Unsplash."
 ---
 
 Uh. Hello! It's been a _while_. Five years, in fact, since I've written on this dang site. It feels like much, much longer.
 
 What have I been doing in the interim? I've been trying lots of new things. No, seriously. I've been:
 
-- A [modestly successful Twitch streamer](link!)
-- A [freelance writer](link!)
-- A [tire changer](link?) (yes, really)
-- A [tire changer but for a different company this time](link?)
+- A modestly successful Twitch streamer
+- A freelance writer
+- A tire changer (yes, really)
 
 And now, on the cusp of moving to Canada, I'm making the transition into a full-time professional software/web developer. Why such a hard pivot, you may ask? Two very important reasons:
 
@@ -22,7 +28,7 @@ Unless you _want_ to take a web development bootcamp, which is what I just finis
 
 ## Booting Up
 
-After a bit of research into Toronto-area programming bootcamps, I joined up with [Lighthouse Labs](link!) for their three-month program that began on March 1. We started off with basic Javascript concepts: functions, objects, conditionals, arrays, and loops (abbreviated to FOCAL, although I would have preferred FALCO.)
+After a bit of research into Toronto-area programming bootcamps, I joined up with [Lighthouse Labs](https://www.lighthouselabs.ca/) for their three-month program that began on March 1. We started off with basic Javascript concepts: functions, objects, conditionals, arrays, and loops (abbreviated to FOCAL, although I would have preferred FALCO.)
 
 <figure class="align-center">
   <img title="pew pew pew" alt="Falco, the Star Fox character, with the text 'FOCAL joins the battle!' superimposed." src="{{ site.baseurl }}{{ site.image_path }}/falco-focal.png"/>
@@ -31,7 +37,7 @@ After a bit of research into Toronto-area programming bootcamps, I joined up wit
 
 I was already pretty familiar with most of these concepts, having dealt with basic programming structures since high school. They're the core building blocks of many programming languages. During this time, I felt like I breezed through the core work and the stretch work, often with plenty of time left in the day to relax.
 
-I also spent a fair amount of time assisting other students in my cohort. This course was intended for people of _any_ skill level, meaning some of my peers had never done any sort of coding before. I wanted to try and use my existing experience to help anyone who asked!
+I also spent a fair amount of time assisting other students in my cohort. The bootcamp is intended for people of _any_ skill level, meaning some of my peers had never done any sort of coding before. I wanted to try and use my existing experience to help anyone who asked!
 
 <aside class="aside-right">
   <img src="{{ site.baseurl }}{{ site.image_path }}/thumbs-up.jpg" />
@@ -40,9 +46,9 @@ I also spent a fair amount of time assisting other students in my cohort. This c
   </p>
 </aside>
 
-I'm really glad I did, because I met a lot of my fellow students through bug hunting and troubleshooting. I also reinforced my own knowledge and discovered weak points when I would try to explain a concept and find out that I was missing something!
+I'm really glad I did, because I got to know a lot of my fellow students through bug hunting and troubleshooting. I also reinforced my existing knowledge and discovered my own blind spots when I would try to explain a concept and find out that I didn't actually understand it yet.
 
-I could talk forever about the instructors, cool [projects](link to lhl projects overview page on portfolio), and student support staff (hi Chetna and Janelle!), but this post would be WAY too long. Instead, let's jump to the two self-driven projects of the bootcamp: the midterm and the final.
+I could talk forever about the instructors, [projects](/portfolio/2021-06-04-lighthouse-projects.html), and student support staff (hi Chetna and Janelle!), but this post would be WAY too long. Instead, let's jump to the two self-driven projects of the bootcamp: the midterm and the final.
 
 ## Midterminal Velocity
 
@@ -63,7 +69,7 @@ Quick note: this style of work delegation is known as a **horizontal** split. On
 
 Thanks to hard work from both of us and our horizontal work delegation, we were able to finish our minimum viable product in just a few days, and spend the rest of the week on extra features (like a review system, average ratings, and user avatars), code cleanup, and polish!
 
-For a more detailed write-up on InquizitorApp, [check it out on my portfolio page](TODO-LINK)!
+For more details on InquizitorApp, check it out [on my portfolio page](/portfolio/2021-06-05-inquizitor.html) or on [GitHub](https://github.com/itspladd/quiz-app)!
 
 ## Final Destination
 
@@ -87,7 +93,7 @@ This was our first time building a new React application from the ground up, so 
 
 In contrast to InquizitorApp, we divided the work **vertically**, which meant that each of us was responsible for entire slices of the application, from the front-end styling to the database connection. Working vertically felt like a slower approach, with more development friction; however, we all became familiar with the entire shape of the application, rather than _only_ having familiarity with our specific domains. For a student project intended to help us all learn full-stack development, I think we made the right decision.
 
-Once again, you can see more details about the project on my [portfolio page](TODO-LINK), or click the link before the photo to see it on GitHub!
+Once again, you can see more details about the project on my [portfolio page](/portfolio/2021-06-06-rehearsal-room.html), or click the link before the photo to see it on GitHub!
 
 ## Okay, that's enough.
 
