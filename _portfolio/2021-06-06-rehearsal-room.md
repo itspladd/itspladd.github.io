@@ -3,16 +3,16 @@ title: "Rehearsal Room"
 excerpt: "A space-finding app for artists of all kinds."
 
 header:
-  teaser: # Teaser image URL
+  teaser: assets/images/thumbnails/2021-06-06-rehearsal-room-th.png
   overlay_filter: rgba(0, 70, 70, 0.8)
-  overlay_image: # "assets/banners/YYYY-MM-DD-name.png"
+  overlay_image: assets/images/banners/2021-06-06-rehearsal-room.png
   caption: # "This will appear in the bottom corner of the image."
   actions:
     - label: # "Button label"
       url: # "http://button-destination.com"
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250 # Same as teaser, possibly
+    image: assets/images/thumbnails/2021-06-06-rehearsal-room-th.png
     image_alt: "logo"
     text: "Solo Developer"
   - title: "Responsibilities"
