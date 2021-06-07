@@ -10,9 +10,16 @@ header:
       url: "https://github.com/itspladd/personal-website-old"
     - label: "Live Site"
       url: /personal-website-old/
+sidebar:
+  - title: "Role"
+    image: assets/banners/2016-05-01-banner-old-website-th.png
+    image_alt: "logo"
+    text: "Solo Developer"
+  - title: "Responsibilities"
+    text: "All of 'em"
 ---
 
-PLADD was my original personal website. It features a blog, samples of my writing (which aren't really appropriate for work - be warned!), my drawings, and code projects I've worked on.
+PLADD was my original personal website. It features a blog, some just-for-fun writing (which isn't really appropriate for work - be warned!), and drawing practice images.
 
 The following is my original write-up for the project, circa 2016. Hop in your time machine!
 

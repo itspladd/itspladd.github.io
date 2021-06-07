@@ -1,6 +1,7 @@
 ---
-title: "Assorted Lighthouse Labs Projects"
-excerpt: "A quick rundown of the smaller projects I worked on during bootcamp."
+title: "Project Name"
+excerpt: "This will appear on top of the header image."
+
 header:
   overlay_filter: rgba(0, 70, 70, 0.8)
   overlay_image: #"assets/banners/YYYY-MM-DD-name.png"
@@ -17,4 +18,4 @@ sidebar:
     text: "All of 'em"
 ---
 
-Lorem ipsum
+This is a template page for portfolio pages. You shouldn't be looking at it. Why are you looking at it?
