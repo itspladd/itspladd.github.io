@@ -2,6 +2,7 @@
 title: "itspladd.com"
 excerpt: "My original personal website."
 header:
+  teaser: assets/banners/2016-05-01-banner-old-website-th.png
   overlay_filter: rgba(0, 70, 70, 0.8)
   overlay_image: "assets/banners/2016-05-01-banner-old-website.png"
   caption: "I picked the color scheme for the site. I'm also colorblind. These two facts are entirely unrelated."
