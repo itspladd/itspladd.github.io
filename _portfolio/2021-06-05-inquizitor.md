@@ -25,27 +25,3 @@ sidebar:
 
 This page is under development - come back soon!
 {: .notice--info}
-
-## Summary
-
-<!-- One-paragraph summary goes here. -->
-
-## Key Features
-
-<!-- What important technologies, features, etc were in this project? -->
-
-## Timeline
-
-<!-- How long did it take? -->
-
-## Lessons Learned
-
-<!-- What new skills did I learn? What roadblocks did I encounter? What challenges did I overcome? -->
-
-## What I'm Proud Of
-
-<!-- What am I particularly happy about from this project? -->
-
-## Known Issues
-
-<!-- Optional: what needs to be addressed? -->
