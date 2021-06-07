@@ -18,4 +18,4 @@ sidebar:
     text: "All of 'em"
 ---
 
-Lorem ipsum
+## Under development - come back soon!

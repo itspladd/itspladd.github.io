@@ -3,27 +3,28 @@ title: "InquizitorApp"
 excerpt: "An app for creating, taking, and sharing quizzes."
 
 header:
-  teaser: # Teaser image URL
-  overlay_filter: rgba(0, 70, 70, 0.8)
-  overlay_image: # "assets/banners/YYYY-MM-DD-name.png"
+  teaser: assets/images/thumbnails/2021-06-05-inquizitor-th.png
+  overlay_filter: rgba(0, 70, 70, 0.4)
+  overlay_image: assets/images/banners/2021-06-05-inquizitor.png
   caption: # "This will appear in the bottom corner of the image."
   actions:
-    - label: # "Button label"
-      url: # "http://button-destination.com"
+    - label: Live App
+      url: "https://inquizitor-app.herokuapp.com/"
+    - label: GitHub
+      url: "https://github.com/itspladd/quiz-app"
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250 # Same as teaser, possibly
+    image: assets/images/thumbnails/2021-06-05-inquizitor-th.png # Same as teaser, possibly
     image_alt: "logo"
-    text: "Solo Developer"
+    text: "Backend Developer"
   - title: "Responsibilities"
-    text: "All of 'em"
-  - title: "Client"
-    text: ""
+    text: "Server, routing, and database management"
   - title: "Tech stack"
-    text: ""
+    text: "Express, jQuery, and EJX"
 ---
 
-This is a template page for portfolio pages. You shouldn't be looking at it. Why are you looking at it?
+This page is under development - come back soon!
+{: .notice--info}
 
 ## Summary
 
