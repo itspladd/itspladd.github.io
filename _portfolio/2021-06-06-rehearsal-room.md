@@ -1,6 +1,6 @@
 ---
-title: "Project Name"
-excerpt: "This will appear on top of the header image."
+title: "Rehearsal Room"
+excerpt: "A space-finding app for artists of all kinds."
 
 header:
   teaser: # Teaser image URL
@@ -23,7 +23,8 @@ sidebar:
     text: ""
 ---
 
-This is a template page for portfolio pages. You shouldn't be looking at it. Why are you looking at it?
+This page is under development - come back soon!
+{: .notice--info}
 
 ## Summary
 

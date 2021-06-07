@@ -4,7 +4,7 @@ layout: splash
 root: "true"
 header:
   overlay_filter: rgba(0, 70, 70, 0.6)
-  overlay_image: /assets/banners/dog-spring.jpeg
+  overlay_image: /assets/images/banners/dog-spring.jpeg
   caption: "Aww."
   actions:
     - label: "Portfolio"
