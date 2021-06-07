@@ -18,4 +18,5 @@ sidebar:
     text: "All of 'em"
 ---
 
-## Under development - come back soon!
+This page is under development - come back soon!
+{: .notice--info}
