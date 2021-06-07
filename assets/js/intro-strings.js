@@ -1,17 +1,14 @@
 var introStrings = [
-    "art",
-    "a blog",
-    "bad words (sometimes)",
-    "code",
-    "comics",
-    "D&D",
-    "personal finance",
-    "RPG stories",
-    "SO MANY THINGS",
-    "scripting",
-    "things",
-    "this website",
-    "websites"];
+  "inexcusable art",
+  "light swearing",
+  "semi-filtered goofballery",
+  "randomized subtitle strings",
+  "D&D",
+  "self-exultation",
+  "self-deprecation",
+  "existential confusion",
+  "occasional electronic music",
+];
 
 var introString = "Paul Ladd does things";
 var lastIndexNumber = -1;

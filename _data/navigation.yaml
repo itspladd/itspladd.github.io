@@ -1,0 +1,39 @@
+# main links
+main:
+  - title: "Blog"
+    url: /posts-year/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "About"
+    url: /about/
+  - title: "Contact"
+    url: /contact/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+# To be used in the future so that viewers can filter my portfolio (by technology, or year, or client, etc)
+portfolio-sidebar:
+  - title: "Parent Page A"
+    children:
+      - title: "Child Page A1"
+        url: /
+      - title: "Child Page A2"
+        url: /
+      - title: "Child Page A3"
+        url: /
+      - title: "Child Page A4"
+        url: /
+  - title: "Parent Page B"
+    children:
+      - title: "Child Page B1"
+        url: /
+      - title: "Child Page B2"
+        url: /
+      - title: "Child Page B3"
+        url: /
+      - title: "Child Page B4"
+        url: /
+      - title: "Child Page B5"
+        url: /
