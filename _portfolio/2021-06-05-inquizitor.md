@@ -1,11 +1,11 @@
 ---
-title: "Project Name"
-excerpt: "This will appear on top of the header image."
+title: "InquizitorApp"
+excerpt: "An app for creating, taking, and sharing quizzes."
 
 header:
   teaser: # Teaser image URL
   overlay_filter: rgba(0, 70, 70, 0.8)
-  overlay_image: # "assets/images/banners/YYYY-MM-DD-name.png"
+  overlay_image: # "assets/banners/YYYY-MM-DD-name.png"
   caption: # "This will appear in the bottom corner of the image."
   actions:
     - label: # "Button label"

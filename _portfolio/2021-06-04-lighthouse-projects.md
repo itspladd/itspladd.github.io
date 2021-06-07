@@ -2,7 +2,7 @@
 title: "Assorted Lighthouse Labs Projects"
 excerpt: "Small projects I worked on for bootcamp."
 header:
-  teaser: assets/banners/2021-06-04-lighthouse-projects-th.png
+  teaser: assets/images/thumbnails/2021-06-04-lighthouse-projects-th.png
   overlay_filter: rgba(0, 70, 70, 0.8)
   overlay_image: #"assets/banners/YYYY-MM-DD-name.png"
   caption: #"This will appear in the bottom corner of the image."

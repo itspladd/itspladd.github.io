@@ -2,9 +2,9 @@
 title: "itspladd.com"
 excerpt: "My original personal website."
 header:
-  teaser: assets/banners/2016-05-01-banner-old-website-th.png
+  teaser: assets/images/thumbnails/2016-05-01-banner-old-website-th.png
   overlay_filter: rgba(0, 70, 70, 0.8)
-  overlay_image: "assets/banners/2016-05-01-banner-old-website.png"
+  overlay_image: "assets/images/banners/2016-05-01-banner-old-website.png"
   caption: "I picked the color scheme for the site. I'm also colorblind. These two facts are entirely unrelated."
   actions:
     - label: "Source Code"
@@ -13,7 +13,7 @@ header:
       url: /personal-website-old/
 sidebar:
   - title: "Role"
-    image: assets/banners/2016-05-01-banner-old-website-th.png
+    image: assets/images/thumbnails/2016-05-01-banner-old-website-th.png
     image_alt: "logo"
     text: "Solo Developer"
   - title: "Responsibilities"

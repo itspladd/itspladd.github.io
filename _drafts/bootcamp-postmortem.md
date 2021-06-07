@@ -25,7 +25,7 @@ Unless you _want_ to take a web development bootcamp, which is what I just finis
 After a bit of research into Toronto-area programming bootcamps, I joined up with [Lighthouse Labs](link!) for their three-month program that began on March 1. We started off with basic Javascript concepts: functions, objects, conditionals, arrays, and loops (abbreviated to FOCAL, although I would have preferred FALCO.)
 
 <figure class="align-center">
-  <img title="pew pew pew" alt="Falco, the Star Fox character, with the text 'FOCAL joins the battle!' superimposed." src="{{ site.baseurl }}/assets/falco-focal.png"/>
+  <img title="pew pew pew" alt="Falco, the Star Fox character, with the text 'FOCAL joins the battle!' superimposed." src="{{ site.baseurl }}{{ site.image_path }}/falco-focal.png"/>
   <figcaption>See? It's just not the same.</figcaption>
 </figure>
 
@@ -34,7 +34,7 @@ I was already pretty familiar with most of these concepts, having dealt with bas
 I also spent a fair amount of time assisting other students in my cohort. This course was intended for people of _any_ skill level, meaning some of my peers had never done any sort of coding before. I wanted to try and use my existing experience to help anyone who asked!
 
 <aside class="aside-right">
-  <img src="{{ site.baseurl }}/assets/thumbs-up.jpg" />
+  <img src="{{ site.baseurl }}{{ site.image_path }}/thumbs-up.jpg" />
   <p>
     why yes Derek, i totally know what "hoisting" means, give me ten seconds. no derek I am <em>not</em> frantically googling "hoisting javascript fast answer please" why would you even suggest that haha
   </p>
@@ -51,7 +51,7 @@ For the midterm project, we were paired randomly with other students in our coho
 Thankfully, Reggi used her functioning human brain to suggest that an application for _user-generated_ quizzes would be more technically interesting to create, and also have the potential to create some kind of _actual value_ for other human beings. So we did that instead, and in the span of one week (ONE. WEEK.) we created: [THE INQUIZITORAPP](https://inquizitor-app.herokuapp.com/). (It's live. At that link. You can use it, right now! It might take a few seconds to load, give it time.)
 
 <figure class="align-center">
-  <img title="Spoiler alert: Mario can eat only fungus. Thankfully, everything in the Mushroom Kingdom, sapients included, is made of fungus, so he never goes hungry." alt="A screenshot of the InquizitorApp page, showing a quiz entitled 'Mario's Dietary Restrictions.'" src="{{ site.baseurl }}/assets/inquizitor-screenshot.png"/>
+  <img title="Spoiler alert: Mario can eat only fungus. Thankfully, everything in the Mushroom Kingdom, sapients included, is made of fungus, so he never goes hungry." alt="A screenshot of the InquizitorApp page, showing a quiz entitled 'Mario's Dietary Restrictions.'" src="{{ site.baseurl }}{{ site.image_path }}/inquizitor-screenshot.png"/>
   <figcaption>I did, in fact, still manage to create goofball quizzes, because I cannot be stopped.</figcaption>
 </figure>
 
@@ -78,7 +78,7 @@ Well, in theory we had two weeks. In practice, we had one week of coding, four d
 Given all of that, I think we did pretty well: we created [Rehearsal Room](https://github.com/KateIsabelle/rehearsal-room)!
 
 <figure class="align-center">
-  <img title="Please note that all violin-practicing spaces come with a surly violin expert who will silently judge your amateur technique." alt="A screenshot of the Rehearsal Room front page, displaying a woman playing a violin with the text 'Artists Looking For Space. Spaces Available For Artists.'" src="{{ site.baseurl }}/assets/rehearsal-room-screenshot.png"/>
+  <img title="Please note that all violin-practicing spaces come with a surly violin expert who will silently judge your amateur technique." alt="A screenshot of the Rehearsal Room front page, displaying a woman playing a violin with the text 'Artists Looking For Space. Spaces Available For Artists.'" src="{{ site.baseurl }}{{ site.image_path }}/rehearsal-room-screenshot.png"/>
 </figure>
 
 This was our first time building a new React application from the ground up, so it took us a few days to find our footing. By the end of the project, however, we were all jumping in and out of components and hooks easily!
