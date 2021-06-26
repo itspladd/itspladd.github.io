@@ -1,59 +1,42 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>{{ page.title }}</title>
-        <meta charset="UTF-8">
-        {% if page.root %}
-        <!-- FB integration -->
-        <meta property="fb:admins" content="540833758" />
-        {% endif %}
-        <!-- Open Graph markup tags -->
-        <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-        <meta property="og:title" content="{{ page.title }}" />
-        <meta property="og:description" content="{{ page.shortdesc }}" />
-        <meta property="og:site_name" content="{{ site.name }}" />
-        <meta property="og:image" content="{{ site.url }}{{ site.bannerpath }}{{ page.preview-image.file }}" />
-        <meta property="og:image:type" content="{{ page.preview-image.type }}" />
-        <meta property="og:image:width" content="{{ page.preview-image.width }}" />
-        <meta property="og:image:height" content="{{ page.preview-image.height }}" />
-        <meta property="fb:app_id" content="1754438504801566" />
-        
-        <!-- RSS/Atom XML -->
-        <link rel="alternate" type="application/atom+xml" title="PLADD" href="{{ site.url }}/atom.xml" />
-        
-        <!-- CSS -->
-        <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic,700,700italic%7CBitter' rel='stylesheet' type='text/css'/>
-        <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css"/>
-        
-        <script src="{{ site.baseurl }}{{ site.jspath }}sidebar.js"></script>
-        <script src="{{ site.baseurl }}{{ site.jspath }}intro-strings.js"></script>
-        <!-- Google analytics code snippet -->
-        {% include google-analytics.html %}
-        <!-- END Google analytics code -->
-    </head>
-    
-    <body onload="chooseIntroString(); doSidebar()">
-        <header>
-            <h1 class="main-title"><a class="main-title" href="{{ site.baseurl }}/">PLADD</a></h1>
-            <p id="intro-string">&nbsp;<p>
-            <a class="socialbutton" href="https://twitter.com/itspladd" target="_blank"><img src="{{ site.baseurl }}{{ site.iconpath }}twitter-48.png" title="Follow me on twitter!" alt="Twitter icon!" /></a>
-            <a class="socialbutton" href="http://pladddraws.tumblr.com/" target="_blank"><img src="{{ site.baseurl }}{{ site.iconpath }}tumblr-48.png" title="Creep me on tumblr!" alt= "Tumblr icon!" /></a>
-            <a class="socialbutton" href="https://github.com/itspladd/" target="_blank"><img src="{{ site.baseurl }}{{ site.iconpath }}github-48.png" title="Fork me on GitHub!" alt="GitHub icon!" /></a>
-            <a class="socialbutton" href="http://feeds.feedburner.com/itspladd" target="_blank"><img src="{{ site.baseurl }}{{ site.iconpath }}rss-48.png" title="Subscribe to the RSS feed!" alt="RSS icon!" /></a>
-            <nav>
-                <a class="navbutton" href="{{ site.baseurl }}/blog">Blog</a>
-                <a class="navbutton" href="{{ site.baseurl }}/writing">Writing</a>
-                <a class="navbutton" href="{{ site.baseurl }}/art">Art</a>
-                <a class="navbutton" href="{{ site.baseurl }}/coding">Code</a>
-                <a class="navbutton" href="{{ site.baseurl }}/about">About</a>
-            </nav>
-        </header>
-        <div id="content">
-        
-        {{ content }}
-        
-        </div><!-- /.content -->
-        <footer>Unless otherwise indicated, all content on this site is owned by Paul Ladd. &copy; 2013-2016 Paul Ladd. Hosted on <a style="color:#E6C19E" href="https://github.com/itspladd/itspladd.github.io">GitHub</a>.</footer>
+---
+---
 
-    </body>
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.23.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
+
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
+    {% include_cached skip-links.html %}
+    {% include_cached browser-upgrade.html %}
+    {% include_cached masthead.html %}
+
+    <div class="initial-content">
+      {{ content }}
+    </div>
+
+    {% if site.search == true %}
+      <div class="search-content">
+        {% include_cached search/search_form.html %}
+      </div>
+    {% endif %}
+
+    <div id="footer" class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include_cached footer.html %}
+      </footer>
+    </div>
+
+    {% include scripts.html %}
+
+  </body>
 </html>
