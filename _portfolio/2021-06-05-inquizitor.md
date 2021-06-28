@@ -64,7 +64,13 @@ This method was invaluable later when I needed to write a method that added a qu
 ## What I'm Proud Of
 
 <!-- What am I particularly happy about from this project? -->
+As you might be able to tell from the previous section, I'm really pleased with the functions I created early on; they made it much, much easier to implement more complex behavior later. I was also proud of the overall code structure and organization on the backend, with all of the database helper functions split into different files and bundled wherever they were needed.
+
+I'm also really happy with how well Reggi and I collaborated. As I developed backend routes and data and she developed the front-end requests, design, and UI, we were in constant communication. On more than one occasion, she would complete a frontend implementation at almost the same time as me completing the backend route. This meant that we were able to "join" the two pieces easily and see the fully-working feature!
 
 ## Known Issues
 
 <!-- Optional: what needs to be addressed? -->
+Currently, InquizitorApp works just fine for its core purposes! We're missing a couple of our stretch features, such as additional study tools and more extensive profile customization; but as far as the user experience goes, the application is complete as-is!
+
+On the backend specifically, I know I can improve the way quizzes are added to the database. Currently, there's a separate SQL query for each quiz, question, and answer, resulting in a LOT of queries to add a single quiz. There's definitely room for improvement!
