@@ -23,9 +23,6 @@ sidebar:
     text: "Express, jQuery, and EJX"
 ---
 
-This page is under development - come back soon!
-{: .notice--info}
-
 ## Summary
 
 InquizitorApp is a RESTful, responsive full-stack web application for creating, taking, and sharing quizzes, created in partnership with [Maria Regina Sirilan](https://github.com/ahhreggi).
