@@ -23,5 +23,5 @@ sidebar:
     text: "React, Express, and PSQL"
 ---
 
-This page is under development - come back soon!
+🚧 This write-up is pending - I'll get to it soon! 🚧
 {: .notice--info}
