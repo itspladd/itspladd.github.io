@@ -18,7 +18,7 @@ sidebar:
   - title: "Responsibilities"
     text: "Dashboard page, dynamic search/filter, and booking functionality"
   - title: "Client"
-    text: "Bootcamp"
+    text: "Lighthouse Labs (Final Project)"
   - title: "Tech stack"
     text: "React, Express, and PSQL"
 ---
