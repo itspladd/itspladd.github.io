@@ -133,15 +133,27 @@ And it worked, and I knew it worked, and I know that if I ever change any part o
 
 All hail the tests.
 
+<figure class="align-center">
+  <img title="friendship ended with BLINDLY BASHING OUT CODE. TESTS is my new friend now" alt="An animation of a console output scrolling through test results, with green check marks indicating successful tests." src="{{ site.baseurl }}{{ site.image_path }}/battleship-tests-output.gif"/>
+  <figcaption>ALL. HAIL. THE. TESTS</figcaption>
+</figure>
+
 ## Other Reasons I Love TDD
 
-I absolutely love having a specific list of tasks to complete: a clearly-stated goal that I know I can make measurable work towards. TDD gives me that at every step of the way. My thought process goes like this:
+I work really well when I have a specific list of tasks to complete; it gives me clearly-stated goals that I know I can make measurable work towards. TDD gives me that at every step of the way:
 
-1. "I want the game to be able to do something!"
-2. "I'll write a test for that thing."
-3. "Oh no! A test is failing! I need to fix it!"
-4. "Heck yes, I fixed the test."
-5. "I want the game to be able to do something else!"
+1. I want the game to be able to do something.
+2. I'll write a test for that thing.
+3. Oh no! A test is failing! I need to fix it!
+4. Heck yes, I fixed the test. I'm the best developer in the universe.
+5. Repeat <strong>Steps 1-4</strong> until your brain has exhausted its daily supply of Programming Juice.
+
+<aside class="aside-left">
+  <img title ="Do not drink PROGRAMMING JUICE if you are pregnant, may become pregnant, or have never been pregnant. Do not give PROGRAMMING JUICE to children under 12 or over 12. Do not drink PROGRAMMING JUICE if you have had heart palpitations, heart surgery, or a heart. Although studies have linked PROGRAMMING JUICE to a new medical condition known as 'hyper-aneurysms,' this link has not been proven." src="{{ site.baseurl }}{{ site.image_path }}/programming-juice.png" alt="A bottle of blue liquid with PROGRAMMING written on the side." />
+  <p>
+    COBOL-BERRY BLUE flavor. 
+  </p>
+</aside>
 
 ...and so on, for hours. It helped me stay focused on my work, and left me pleased with my results each day!
 
@@ -149,40 +161,11 @@ I also can't overstate enough how much TDD helped me find small problems before 
 
 ## What's Next?
 
-Now that the engine is complete, I'm working on the interface! I'm using React for part of it, and Three.js (a 3D graphics tool) to make the game itself. I've never worked with 3D graphics before, so this should be a BIG challenge for me, but I know I'm up to it!
+Now that the engine is complete, I'm working on the interface! I'm using React for part of it, and Three.js (a 3D graphics tool) to make the game itself. I've never worked with 3D graphics before, so it's been a pretty big challenge, but I've already made a lot of progress.
 
-CAPTURING AN IMPORTANT NOTE: Test-driven development specifically uncovered a bug in my code:
+<figure class="align-center">
+  <img title="wow it looks so good already. like one of them 'video james'" alt="An animation of a three-dimensional hexagonal board made of blue tiles. When the pointer hovers over a tile, it changes to a lighter color of blue." src="{{ site.baseurl }}{{ site.image_path }}/battleship-board-test.gif"/>
+  <figcaption>The current state of the interface. 3D graphics are hard, but fun! But also hard.</figcaption>
+</figure>
 
-```JS
-this.segments = [ ...SHIP_TYPES.DEFAULT.SEGMENTS];
-
-// early SHIPS.JS
-const SHIP_TYPES = {
-  DEFAULT: {
-    SEGMENTS: [1, 1, 1]
-  }
-};
-
-// later SHIPS.js
-const SHIP_TYPES = {
-  DEFAULT: {
-    SEGMENTS: [
-      { hp: 1 },
-      { hp: 1 },
-      { hp: 1 }
-    ]
-  }
-};
-
-// before tests:
-let testShip;
-before(() => {
-  testShip = new Ship();
-});
-
-// In one test:
-testShip.segments[0].hp = -1;
-
-// In another test:
-result1[0].hp.should.equal(1);
-```
+Stay tuned!
