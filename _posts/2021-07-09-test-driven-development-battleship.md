@@ -13,7 +13,7 @@ Sometimes you're doing everything wrong, and you don't even realize it.
 
 Let's say you're a cook. You've been cooking for years. You like cooking! But there's one part of cooking that's always hard: knowing how the food tastes. You *watch* the food as you're cooking it, and everything looks fine, but the flavors could be terribly wrong and you'd never know!
 
-One day, you make a big bowl of soup and you sit down to eat it. You taste the soup and UGH there's not enough salt, and barely enough paprika, and also there's too much oregano or whatever. So you stir in some more saly, and add paprika, and try to pick out a bunch of tiny pieces of oregano, which is very hard, because it's soup.
+One day, you make a big bowl of soup and you sit down to eat it. You taste the soup and UGH there's not enough salt, and barely enough paprika, and also there's too much oregano or whatever. So you stir in some more salt, and add paprika, and try to pick out a bunch of tiny pieces of oregano, which is very hard, because it's soup.
 
 You also made a cherry pie to go along with the soup, because you're a *soup-and-pie* kind of person, look, I don't know, it's your thing, I'm not going to judge.
 
