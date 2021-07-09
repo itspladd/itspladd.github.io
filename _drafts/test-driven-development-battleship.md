@@ -11,11 +11,27 @@ header:
 
 Sometimes you're doing everything wrong, and you don't even realize it.
 
-Let's say you're a cook. You've been cooking for years. You like cooking! But there's one part of cooking that's always hard: knowing how the food tastes. You *watch* the food as you're cooking it, and everything can seem fine, but sometimes the flavors are terribly wrong!
+Let's say you're a cook. You've been cooking for years. You like cooking! But there's one part of cooking that's always hard: knowing how the food tastes. You *watch* the food as you're cooking it, and everything looks fine, but the flavors could be terribly wrong and you'd never know!
 
-One day, you make a big bowl of soup and you sit down to eat it. You taste the soup and UGH there's not enough salt, and also there's too much oregano or whatever. You made a cherry pie to go along with the soup, because you're a *soup-and-pie* kind of person, look, I don't know, it's your thing, I'm not going to judge. And you take a big bite of your pie and BLECH it really needs some more sugar, but the pie is *already baked* and how the heck are you going to get sugar in there? You sigh. You pull the crust off the top of your slice of pie. You sprinkle some sugar on the filling. You put the crust back on. You taste the pie again. Now it has too much sugar. You scream in anguish and you're in the process of taking the crust off of your pie again when the ghost of celebrity chef Anthony Bourdain rises from the floor and yells "HEY, TASTE YOUR FOOD *AS* YOU COOK IT, YOU DINGUS."
+One day, you make a big bowl of soup and you sit down to eat it. You taste the soup and UGH there's not enough salt, and barely enough paprika, and also there's too much oregano or whatever. So you stir in some more saly, and add paprika, and try to pick out a bunch of tiny pieces of oregano, which is very hard, because it's soup.
 
-Dear reader: *I was that cook.* But for programming. I would feverishly bang out line after line of code at my computer, occasionally checking to see if it looked like it was working correctly. Sometimes I would change one line of code and break a different part of the program, and I would have to hunt down the problem. Other times, the end result *looked* correct, but was in fact causing problems I couldn't see.
+You also made a cherry pie to go along with the soup, because you're a *soup-and-pie* kind of person, look, I don't know, it's your thing, I'm not going to judge.
+
+<figure class="align-center">
+  <img title="Related searches: 'beans and raisin casserole,' 'mayonnaise-dipped bananas,' 'hot chocolate but made of beer??'" alt="Google search results for 'soup and cherry pie,' displaying the text 'No results.' The tip banner reads 'Ha ha, what? What is wrong with you? Tip: Try using combinations of words that humans might use. For example, 'cherry pie recipe' instead of 'HUMAN MEALS TO PLACE IN MY HUMAN MOUTH, SUCH AS SOUPS AND PIED FRUITS!' Need help? Check out other tips for pretending you're note a gibbering alien disguised in a human flesh-suit." src="{{ site.baseurl }}{{ site.image_path }}/soup-and-pie.png"/>
+  <figcaption>Google might judge a bit, though.</figcaption>
+</figure>
+
+And you take a big bite of your pie and BLEH it really needs some more sugar, but the pie is *already baked* and how the heck are you going to get sugar in there? You sigh. You pull the crust off the top of your slice of pie. You sprinkle some sugar on the filling. You put the crust back on. You taste the pie again. Now it has too much sugar. You scream in anguish and you're in the process of taking the crust off of your pie again when the ghost of fictional celebrity chef Auguste Gusteau rises from the floor and yells "HEY, TASTE YOUR FOOD *AS* YOU COOK IT, YOU DINGUS."
+
+<aside class="aside-right">
+  <img src="{{ site.baseurl }}{{ site.image_path }}/gusteau-ghost.jpg" alt="Ghostly image of Auguste Gusteau, a chef from the film Ratatioulle." />
+  <p>
+    "Hold on, I need to re-title my inspirational book <em>'Anyone Can Cook'</em> to exclude you specifically"
+  </p>
+</aside>
+
+Dear reader: *I was that cook.* But for programming. I would feverishly bang out line after line of code, occasionally checking to see if it looked like it was working correctly. Sometimes I would change one line of code and break a different part of the program, and I would have to hunt down the problem. Other times, the end result *looked* correct, but was in fact causing problems I couldn't see.
 
 I had heard vaguely of "testing," but I had no idea what it really meant or how to use it. "Test my code?" I would laugh to myself, because I was a fool. "Why? Seems like a waste of time."
 
@@ -42,7 +58,11 @@ And then I would do the same things for multiplication. For subtraction. For div
 
 "Pladd," you might say. "That sounds indescribably tedious." And you'd be right. It's really annoying to do, especially if you've already finished the calculator: you mean I'm supposed to spend all this time and effort just to re-affirm that it works?
 
-Well, yeah. It's super important. But there's got to be a better way!
+<figure class="align-center">
+  <img title="But actually yes." alt="A clay rendering of a man in a pirate outfit saying 'Well yes, but actually no.'" src="{{ site.baseurl }}{{ site.image_path }}/yes-but-no.jpg"/>
+</figure>
+
+Yes. It's <em>super</em> important. But there's got to be a better way!
 
 ## There's A Better Way
 
@@ -58,11 +78,11 @@ So that it has its own header.
 
 ## Seriously?
 
-Just say "test-driven development."
+Just say "test-driven development" already please we've wasted so much time
 
 ## Test-Driven Development
 
-Thank you. Let's start off by calling it TDD instead of test-driven development, because it's a common acronym and I don't feel like typing it out fully every single dang time.
+<em>Thank you.</em> Let's start off by calling it TDD instead of test-driven development, because it's a common acronym and I don't feel like typing it out every single dang time.
 
 TDD is, essentially, writing tests *before* you write the code that they're testing. Which, to me, sounded absolutely *wild* when I first heard it. How can you write a test for something that doesn't exist yet?
 
@@ -96,9 +116,14 @@ I wanted to make a game that's similar to the classic board game Battleship as a
 
 I tried to use TDD, but I was having a lot of trouble writing my tests. All the pieces of my code were interconnected in a bunch of complicated ways, and it was making it hard to test! And this is another benefit of TDD: it can help warn you when you're writing bad code.
 
+<figure class="align-center">
+  <img title="it's way more delicious than lego code though" alt="A plate of cooked spaghetti noodles with fork and a parsley garnish." src="{{ site.baseurl }}{{ site.image_path }}/spaghetti-with-fork.png"/>
+  <figcaption>Cometimes known as "spaghetti code," because everything is all tangled together, and also because it tastes much better with a nice marinara or alfredo sauce. Photo via <a href="https://unsplash.com/photos/Nx3OCfnRit8">Unsplash</a>.</figcaption>
+</figure>
+
 In general, you want your code to be **modular**. You want to make code that's like Legos: every part of the program fits together with another part of the program in specific, predictable ways. You can take two Legos of the same type and be certain that they'll work the same way no matter where you put them.
 
-If you practice TDD, then you *must* have written your code in a modular way, because you've already written individual tests for *every part of your code.* If the different parts of your application weren't modular, you wouldn't be able to run tests on them individually.
+If you use TDD strictly, then you *must* have written your code in a modular way, because you've already written individual tests for *every part of your code.* If the different parts of your application weren't modular, you wouldn't be able to run tests on them individually.
 
 So I started over, and started building just the **engine** of my game. I wrote tests for "Tiles," to make sure they could know if they contained a "hit" or a "miss." I wrote tests for "Boards," to make sure they contained "Tiles" and "Ships" and knew where all their component pieces were on the board. I wrote test after test after test, building the engine one piece at a time, continually checking my tests along the way, finding mistakes that I had missed.
 
