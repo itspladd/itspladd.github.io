@@ -25,7 +25,7 @@ You also made a cherry pie to go along with the soup, because you're a *soup-and
 And you take a big bite of your pie and BLEH it really needs some more sugar, but the pie is *already baked* and how the heck are you going to get sugar in there? You sigh. You pull the crust off the top of your slice of pie. You sprinkle some sugar on the filling. You put the crust back on. You taste the pie again. Now it has too much sugar. You scream in anguish and you're in the process of taking the crust off of your pie again when the ghost of fictional celebrity chef Auguste Gusteau rises from the floor and yells "HEY, TASTE YOUR FOOD *AS* YOU COOK IT, YOU DINGUS."
 
 <aside class="aside-right">
-  <img src="{{ site.baseurl }}{{ site.image_path }}/gusteau-ghost.jpg" alt="Ghostly image of Auguste Gusteau, a chef from the film Ratatioulle." />
+  <img src="{{ site.baseurl }}{{ site.image_path }}/gusteau-ghost.jpg" alt="Ghostly image of Auguste Gusteau, a chef from the film Ratatouille." />
   <p>
     "Hold on, I need to re-title my inspirational book <em>'Anyone Can Cook'</em> to exclude you specifically"
   </p>
@@ -118,7 +118,7 @@ I tried to use TDD, but I was having a lot of trouble writing my tests. All the 
 
 <figure class="align-center">
   <img title="it's way more delicious than lego code though" alt="A plate of cooked spaghetti noodles with fork and a parsley garnish." src="{{ site.baseurl }}{{ site.image_path }}/spaghetti-with-fork.png"/>
-  <figcaption>Cometimes known as "spaghetti code," because everything is all tangled together, and also because it tastes much better with a nice marinara or alfredo sauce. Photo via <a href="https://unsplash.com/photos/Nx3OCfnRit8">Unsplash</a>.</figcaption>
+  <figcaption>Sometimes known as "spaghetti code," because everything is all tangled together, and also because it tastes much better with a nice marinara or alfredo sauce. Photo via <a href="https://unsplash.com/photos/Nx3OCfnRit8">Unsplash</a>.</figcaption>
 </figure>
 
 In general, you want your code to be **modular**. You want to make code that's like Legos: every part of the program fits together with another part of the program in specific, predictable ways. You can take two Legos of the same type and be certain that they'll work the same way no matter where you put them.
