@@ -29,16 +29,13 @@
           var decoded = l.search.slice(1).split('&').map(function(s) { 
             return s.replace(/~and~/g, '&')
           }).join('?');
-          console.log('pathname slice:', l.pathname.slice(0, -1))
-          console.log('decoded:', decoded)
-          console.log('hash:', l.hash)
-          const newState = l.pathname.slice(0, -1) + decoded + l.hash;
-          console.log(newState);
+
           window.history.replaceState(null, null,
               l.pathname.slice(0, -1) + decoded + l.hash
           );
 
-          // Get name of requested app and redirect to root
+          // Get name of requested app and redirect to root of app
+          // i.e. https://pladd.dev/timekeeper
           const appName = decoded.split('/')[1]
           l.replace(l.origin + '/' + appName);
         }
