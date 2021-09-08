@@ -29,6 +29,9 @@
           var decoded = l.search.slice(1).split('&').map(function(s) { 
             return s.replace(/~and~/g, '&')
           }).join('?');
+          console.log('pathname slice:', l.pathname.slice(0, -1))
+          console.log('decoded:', decoded)
+          console.log('hash:', l.hash)
           const newState = l.pathname.slice(0, 1) + decoded + l.hash;
           console.log(newState);
           window.history.replaceState(null, null,
