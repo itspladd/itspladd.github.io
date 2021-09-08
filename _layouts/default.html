@@ -37,8 +37,10 @@
           window.history.replaceState(null, null,
               l.pathname.slice(0, -1) + decoded + l.hash
           );
+
+          // Get name of requested app and redirect to root
           const appName = decoded.split('/')[1]
-          console.log(l.origin + '/' + appName);
+          l.replace(l.origin + '/' + appName);
         }
       }(window.location))
     </script>
