@@ -37,7 +37,7 @@
           window.history.replaceState(null, null,
               l.pathname.slice(0, -1) + decoded + l.hash
           );
-          const appName = decoded.split('/')[0]
+          const appName = decoded.split('/')
           console.log(appName);
         }
       }(window.location))
