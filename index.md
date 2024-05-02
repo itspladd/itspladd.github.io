@@ -9,9 +9,7 @@ header:
   actions:
     - label: "Portfolio"
       url: /portfolio/
-    - label: "Blog"
-      url: /posts-year/
     - label: "More Pictures Of My Dog"
       url: /dog/
-excerpt: "I'm Paul, a web developer and writer. If you want to look at my projects or read what I've written, then you're in luck: this is precisely where you can do both of those things."
+excerpt: "I'm Paul, a full-stack software engineer with a background in writing and technical communication. Check out my portfolio to see what I've worked on!"
 ---
