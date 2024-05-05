@@ -6,7 +6,7 @@ header:
   teaser: assets/images/thumbnails/2024-05-02-trustradius-th.png
   overlay_filter: rgba(0, 70, 70, 0.8)
   overlay_image: assets/images/banners/2024-05-02-trustradius.png
-  caption: "Don't look at this screencap. Look at the bunny logo! LOOK AT IT. I AM SO PROUD"
+  caption: "Please enjoy reading the description for Slack in this image."
   actions:
     - label: Visit the TR Site
       url: https://www.trustradius.com/
