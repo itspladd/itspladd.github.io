@@ -245,6 +245,14 @@
 
   .archive__item-title {
     margin-bottom: 0;
+
+    /* Add class to support chip */
+    &.with-chip {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      column-gap: .5rem;
+    }
   }
 }
 

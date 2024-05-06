@@ -11,3 +11,25 @@ $aside-color: mix(#000, $background-color, 40%) !default;
 $aside-shadow-color: mix(#000, $background-color, 60%) !default;
 
 @import "minimal-mistakes"; // main partials
+
+.chip {
+  display: inline;
+  border-radius: 1.5rem;
+  padding: .2rem .5rem;
+  font-size: small;
+
+  /* chip color scheme */
+  $chipcolors:
+  (primary, $primary-color),
+  (success, $success-color),
+  (warning, $warning-color),
+  (danger, $danger-color),
+  (info, $info-color);
+
+  @each $buttoncolor, $color in $chipcolors {
+    &--#{$buttoncolor} {
+      @include yiq-contrasted($color);
+    }
+  }
+
+}
