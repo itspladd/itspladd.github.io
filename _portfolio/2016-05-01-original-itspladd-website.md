@@ -7,10 +7,8 @@ header:
   overlay_image: "assets/images/banners/2016-05-01-banner-old-website.png"
   caption: "I picked the color scheme for the site. I'm also colorblind. These two facts are entirely unrelated."
   actions:
-    - label: "Source Code"
+    - label: "GitHub"
       url: "https://github.com/itspladd/personal-website-old"
-    - label: "Live Site"
-      url: /personal-website-old/
 sidebar:
   - title: "Role"
     image: assets/images/thumbnails/2016-05-01-banner-old-website-th.png
@@ -22,9 +20,9 @@ sidebar:
 
 ## Summary
 
-PLADD was my original personal website. It features a blog, some just-for-fun writing (which isn't really appropriate for work - be warned!), and drawing practice images.
+PLADD was my original personal website. It features a blog, some just-for-fun writing (with some swears in it), and drawing practice images.
 
-The following is my original write-up for the project, circa 2016. Hop in your time machine!
+The following is my original write-up for the project. It was written in 2016, so it reflects my skills at the time!
 
 ## Hosting and Domain
 
@@ -48,13 +46,4 @@ Setting up the build environment on my local machine took some figuring out as w
 
 Then, one day, things broke on the live site. And they weren't broken on my local build. Pages had changed the way it built sites, and my local machine was behind. To replicate Pages' build environment exactly, I had to install [Bundler](http://bundler.io/). I had to create a [Gemfile](http://bundler.io/gemfile.html). I had to install [Ruby DevKit](http://rubyinstaller.org/add-ons/devkit/) when everything broke. I swore at things and had to sleep on some problems, and then awoke to the realization that everything was fine and easily fixable.
 
-You know. Standard programmer stuff.
-
-## Known Issues
-
-There used to be known issues here, but this is the old version of the site. I'm archiving it to work on the new one!
-
-~~See any problems with the site that aren't listed here? Email <a href="mailto:support@pladd.dev">support@pladd.dev</a> with a description of the problem, and I'll add it to the list!~~
-
-* ~~Mobile-Unfriendlytude~~
-    * ~~The site is currently mega unfriendly to some mobile browsers. How do I make a site mobile-friendly? NO IDEA. TIME TO FIND OUT.~~
+You know. Standard stuff.

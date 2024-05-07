@@ -8,8 +8,6 @@ header:
   overlay_image: assets/images/banners/2021-06-05-inquizitor.png
   caption: # I can't think of a clever caption for this banner.
   actions:
-    - label: Live App
-      url: "https://inquizitor-app.herokuapp.com/"
     - label: GitHub
       url: "https://github.com/itspladd/quiz-app"
 sidebar:
@@ -68,6 +66,6 @@ I'm also really happy with how well Reggi and I collaborated. As I developed bac
 ## Known Issues
 
 <!-- Optional: what needs to be addressed? -->
-Currently, InquizitorApp works just fine for its core purposes! We're missing a couple of our stretch features, such as additional study tools and more extensive profile customization; but as far as the user experience goes, the application is complete as-is!
+When we reached our deadline, InquizitorApp worked just fine for its core purposes! We were missing a couple of our stretch features, such as additional study tools and more extensive profile customization; but as far as the user experience goes, the application was complete.
 
-On the backend specifically, I know I can improve the way quizzes are added to the database. Currently, there's a separate SQL query for each quiz, question, and answer, resulting in a LOT of queries to add a single quiz. There's definitely room for improvement!
+On the backend specifically, I knew I could improve the way quizzes were added to the database. A separate SQL query handled each quiz, question, and answer, resulting in a LOT of queries to add a single quiz. There was definitely room for improvement!
