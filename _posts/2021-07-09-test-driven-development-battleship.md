@@ -3,9 +3,9 @@ title: "Using Test-Driven Development to Make A Game Engine"
 excerpt: "No, wait, come back! I promise it's less boring than it sounds!"
 
 header:
-  teaser: assets/images/thumbnails/2020-07-01-tdd-battleship-th.jpg
+  teaser: assets/images/thumbnails/2021-07-01-tdd-battleship-th.jpg
   overlay_filter: rgba(0, 70, 70, 0.7)
-  overlay_image: assets/images/banners/2020-07-01-tdd-battleship.jpg
+  overlay_image: assets/images/banners/2021-07-01-tdd-battleship.jpg
   caption: "Photo by <a href='https://unsplash.com/@miqul?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Michal Mrozek</a> on <a href='https://unsplash.com/s/photos/ship-engine?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText'>Unsplash</a>"
 ---
 
