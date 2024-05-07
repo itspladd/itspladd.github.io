@@ -5,6 +5,13 @@ root: "true"
 header:
   overlay_filter: rgba(0, 70, 70, 0.6)
   overlay_image: /assets/images/banners/dog-spring.jpeg
+  actions:
+  - label: "GitHub"
+    url: "https://github.com/itspladd"
+  - label: "LinkedIn"
+    url: "https://www.linkedin.com/in/paul-ladd-b3ab77b4/"
+  - label: "Email"
+    url: "mailto:contact@pladd.dev"
 excerpt: "I'm Paul Ladd, a full-stack software engineer/web developer with a background in writing and technical communication."
 feature_row_portfolio:
   - title: "TrustRadius"
@@ -57,3 +64,5 @@ feature_row_portfolio:
 <h2>Portfolio and Experience</h2>
 
 {% include feature_row id="feature_row_portfolio" %}
+
+<h2>Other Writeups</h2>
