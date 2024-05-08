@@ -16,6 +16,8 @@ layout: single
 - SASS
 - Ruby on Rails
 - C++
+- C#
+- Java
 - [GDScript](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/index.html) (for game development in Godot)
 - HTML (seems obvious, but you never know)
 - CSS (again, seems like a given)
