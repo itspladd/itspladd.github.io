@@ -33,3 +33,7 @@ $aside-shadow-color: mix(#000, $background-color, 60%) !default;
   }
 
 }
+
+.archive__item a {
+  text-decoration: none;
+}
