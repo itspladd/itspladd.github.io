@@ -1,6 +1,7 @@
 ---
 title: "InquizitorApp"
 excerpt: "An app for creating, taking, and sharing quizzes."
+relevancy_date: "2021-06-05"
 
 header:
   teaser: assets/images/thumbnails/2021-06-05-inquizitor-th.png

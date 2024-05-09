@@ -1,6 +1,7 @@
 ---
 title: "Rehearsal Room"
 excerpt: "A space-finding app for artists of all kinds."
+relevancy_date: "2021-06-06"
 
 header:
   teaser: assets/images/thumbnails/2021-06-06-rehearsal-room-th.png

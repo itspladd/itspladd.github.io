@@ -1,6 +1,7 @@
 ---
 title: "TrustRadius"
 excerpt: "I was a software engineer for TrustRadius, a B2B software review site."
+relevancy_date: "2024-05-02"
 
 header:
   teaser: assets/images/thumbnails/2024-05-02-trustradius-th.png

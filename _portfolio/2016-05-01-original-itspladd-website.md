@@ -1,6 +1,8 @@
 ---
 title: "itspladd.com"
 excerpt: "My original personal website."
+relevancy_date: "2016-05-01"
+
 header:
   teaser: assets/images/thumbnails/2016-05-01-banner-old-website-th.png
   overlay_filter: rgba(0, 70, 70, 0.8)
