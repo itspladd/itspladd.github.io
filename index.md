@@ -14,6 +14,8 @@ header:
     url: "mailto:contact@pladd.dev"
 excerpt: "I'm Paul Ladd, a full-stack software engineer/web developer with a background in writing and technical communication."
 feature_row_portfolio:
+  link_style: "hover"
+  items:
   - title: "TrustRadius"
     excerpt: "I worked as a **software engineer** at TrustRadius."
     image_path: /assets/images/thumbnails/2024-05-02-trustradius-th.png
@@ -59,6 +61,25 @@ feature_row_portfolio:
     btn_class: "btn--info"
     chip: "Project"
     chip_class: "chip--warning"
+feature_row_posts:
+  link_style: "hover"
+  items:
+  - title: "Test-Driven Development for a Game Engine"
+    excerpt: "No, wait, come back! I promise it's less boring than it sounds!"
+    image_path: /assets/images/thumbnails/2021-07-01-tdd-battleship-th.png
+    image_caption: "July 1, 2021"
+    alt: "A cramped, confusing set of pipes and valves. Small red wheels for turning valves are attached to long steel-grey pipes. The overall impression is of a cluttered, complex engine." 
+    url: /test-driven-development-battleship
+    btn_label: "Read Post"
+    btn_class: "btn--info"
+  - title: "Emerging from the Lab"
+    excerpt: "A post-bootcamp bootcamp post."
+    image_path: /assets/images/thumbnails/2021-06-06-bootcamp-postmortem-th.png
+    image_caption: "June 6, 2021"
+    alt: "A lighthouse rises above two houses at twilight. The sky is full of stars, and transitions smoothly from dark blue at the top, to light purple in the middle, to orange-pink near the horizon. The lighthouse, is a narrow cone, slightly thicker at the bottom than the top. It's painted in wide horizontal stripes of red and white, and it casts a beam of light across the sky." 
+    url: /bootcamp-postmortem
+    btn_label: "Read Post"
+    btn_class: "btn--info"
 ---
 
 <h2>Portfolio and Experience</h2>
@@ -66,3 +87,5 @@ feature_row_portfolio:
 {% include feature_row id="feature_row_portfolio" %}
 
 <h2>Other Writeups</h2>
+
+{% include feature_row id="feature_row_posts" %}

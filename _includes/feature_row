@@ -7,8 +7,8 @@
 {% endif %}
 
 <div class="feature__wrapper">
-
-  {% for f in feature_row %}
+  {{ (feature_row.link_style == "hover") | jsonify }}
+  {% for f in feature_row.items %}
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
       <div class="archive__item">
         {% if f.image_path %}
@@ -24,7 +24,13 @@
         <div class="archive__item-body">
           {% if f.title %}
             <h2 class="archive__item-title{% if f.chip %} with-chip{% endif %}">
-              {{ f.title }}
+              {% if f.url and feature_row.link_style == "hover" %}
+                <a href="{{ f.url }}" rel="permalink">
+                  {{ f.title }}
+                </a>
+              {% else %}
+                {{ f.title }}
+              {% endif %}
               <!-- Added code to display an optional bchip -->
                 {% if f.chip %}
                 <span class="chip {{ f.chip_class }}">{{ f.chip }}</span>
@@ -41,7 +47,7 @@
             </div>
           {% endif %}
 
-          {% if f.url %}
+          {% if f.url and feature_row.link_style == "button" %}
             <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
           {% endif %}
         </div>
