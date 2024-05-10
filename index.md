@@ -24,10 +24,17 @@ feature_row_portfolio:
     chip: "Employment"
     chip_class: "chip--primary"
   - title: "Capensis"
-    excerpt: "I created Capensis, an accountability-focused **scheduling and time-tracking app**."
+    excerpt: "An accountability-focused **scheduling and time-tracking app**."
     image_path: /assets/images/thumbnails/2021-10-25-capensis-th.png
     alt: "The Capensis logo, a stylized outline of a long-eared hare. The hare is rendered in dark blue strokes in a calligraphic style, with varying line widths. The hare appears to be resting on the ground: its belly lies flat to the ground, its front legs stretch forwards, and its back legs curl underneath its body. The head of the hare is up, with its long ears arcing over its back. It appears to be calmly surveying its surroundings."
     url: /portfolio/2021-10-25-capensis
+    chip: "Project"
+    chip_class: "chip--success"
+  - title: "ShootyBoats"
+    excerpt: "A 3D Battleship-like game board."
+    alt: "A three-dimensional game board composed of blue hexagonal tiles on a black background. Some of the tiles are highlighted with a lighter blue color, creating two distinct sections. On the left-hand section, grey rectangular blocks have been placed on the tiles, representing ship pieces on the game board."
+    image_path: /assets/images/thumbnails/2024-05-09-shootyboats-3d-th.png
+    url: /portfolio/2024-05-09-shootyboats-3d
     chip: "Project"
     chip_class: "chip--success"
   - title: "Rehearsal Room"
