@@ -4,16 +4,16 @@ excerpt: "A 3D Battleship-like experiment using hexagonal tiles instead of squar
 relevancy_date: "2021-09-10"
 
 header:
-  teaser: assets/images/thumbnails/2024-09-05-shootyboats-3d-th.png
+  teaser: assets/images/thumbnails/2024-05-09-shootyboats-3d-th.png
   overlay_filter: rgba(70, 70, 70, 0.8)
-  overlay_image: assets/images/banners/2024-09-05-shootyboats-3d.png
+  overlay_image: assets/images/banners/2024-05-09-shootyboats-3d.png
   caption: "Fun fact: all boats are just grey rectangular blocks, and the ocean is made of blue hexagons! It's true!"
   actions:
     - label: "GitHub"
       url: https://github.com/itspladd/shootyboats
 sidebar:
   - title: "Role"
-    image: assets/images/thumbnails/2024-09-05-shootyboats-3d-th.png
+    image: assets/images/thumbnails/2024-05-09-shootyboats-3d-th.png
     image_alt: "logo"
     text: "Solo Developer"
   - title: "Responsibilities"
